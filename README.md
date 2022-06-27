@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hemprakashp , Undergrad in Mechanical Engineering with 1+ year of experience in the field of Supply Chain and Logistics. Currently honing my skills for a transition to the world of Data
+- 👋 Hi, I’m @hemprakashp , Data Science graduate with 1+ year of experience in Supply chain Management. Over 8 months of experience in handling teams of 10-20 people and working closely with Senior Managers and Director.
 - 👀 I’m interested in torturing Data to make it confess to anything :-)
 - 🌱 I’m currently learning Data Science Engineering course @ Great Learning
 - 💞️ I’m looking to collaborate on Data Analysis and Visualization Projects
