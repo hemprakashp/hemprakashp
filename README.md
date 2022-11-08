@@ -15,6 +15,11 @@
 
 - 📄 Know about my experiences [linkedin.com/in/hemprakashp](linkedin.com/in/hemprakashp)
 
+- Data Visualisation: Tableau - [https://public.tableau.com/app/profile/hemprakashp](Tableau Public Profile)
+                      Power BI - [https://www.novypro.com/profile_projects/hemprakashp](Power BI Dashboard)
+                      
+- Kaggle Notebooks [https://www.kaggle.com/hemprakashprasanna/code](Kaggle Profile)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hemprakashp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemprakashp" height="30" width="40" /></a>
