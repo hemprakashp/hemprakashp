@@ -15,8 +15,7 @@
 
 - 📄 Know about my experiences [linkedin.com/in/hemprakashp](linkedin.com/in/hemprakashp)
 
-- Data Visualisation: [Tableau Public Profile](https://public.tableau.com/app/profile/hemprakashp)
-                      [Power BI Dashboard](https://www.novypro.com/profile_projects/hemprakashp)
+- Data Visualisation: [Tableau Public Profile](https://public.tableau.com/app/profile/hemprakashp), [Power BI Dashboard](https://www.novypro.com/profile_projects/hemprakashp)
                       
 - My Capstone Project: Used Car Price Prediction [Kaggle Notebooks](https://www.kaggle.com/hemprakashprasanna/code)
 
