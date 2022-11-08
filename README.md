@@ -15,10 +15,10 @@
 
 - 📄 Know about my experiences [linkedin.com/in/hemprakashp](linkedin.com/in/hemprakashp)
 
-- Data Visualisation: Tableau - [https://public.tableau.com/app/profile/hemprakashp](Tableau Public Profile)
-                      Power BI - [https://www.novypro.com/profile_projects/hemprakashp](Power BI Dashboard)
+- Data Visualisation: Tableau - [https://public.tableau.com/app/profile/hemprakashp](TableauPublicProfile)
+                      Power BI - [https://www.novypro.com/profile_projects/hemprakashp](PowerBIDashboard)
                       
-- Kaggle Notebooks [https://www.kaggle.com/hemprakashprasanna/code](Kaggle Profile)
+- Kaggle Notebooks [https://www.kaggle.com/hemprakashprasanna/code](KaggleProfile)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
